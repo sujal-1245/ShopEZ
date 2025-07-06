@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/64675155-28bc-45bf-a0a5-29b7177d79f7)<h1 align="center">🛒 ShopEZ — Smart Electronics Storefront</h1>
+<h1 align="center">🛒 ShopEZ — Smart Electronics Storefront</h1>
 <p align="center">
   A sleek and responsive e-commerce web app for browsing, filtering, and shopping electronics — fast, intuitive, and beautifully built.
 </p>
